@@ -1,4 +1,5 @@
 {
-  "Test1Dispatch": "Testing 1 Dispatch",
-  "Test2Dispatch": "Testing 2 Dispatch"
+    "Test1Dispatch": "Testing 1 Dispatch",
+    "Test2Dispatch": "Testing 2 Dispatch",
+    "AddingInWeblate": "Adding a translation in weblate"
 }
